@@ -10,13 +10,14 @@ img {
 
 }
 
-background {
-  color:#E6E6FA
-  
+#d01 a {
+  padding: 10px 15px;
+  background-color: orange;
 }
 
 #d01 a:link, a:visited {
    text-decoration: none; 
+  
   
 }
 
