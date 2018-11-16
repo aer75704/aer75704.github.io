@@ -32,7 +32,7 @@ table, th, td {
 }
 
 table {
-    width: 75%;
+    width: 100%;
 }
 
 th {
@@ -41,7 +41,7 @@ th {
 }
 
 td {
-  height: 250px;
+  height: 300px;
     
 }
 
