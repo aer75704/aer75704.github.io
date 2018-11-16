@@ -1,11 +1,8 @@
 body {
   font-family: "Courier New", Courier, monospace;
   text-align: center;
+  background-color: Gainsboro;
 
-}
-
-background-color{
-    Gainsboro 
 }
 
 img {
@@ -16,13 +13,12 @@ img {
 
 #d01 a {
   padding: 10px 15px;
-  background-color: orange;
+  background-color: LightGray;
+  
 }
 
 #d01 a:link, a:visited {
-   text-decoration: none;
-  background-color: LightGray
-  
+  text-decoration: none;
   
 }
 
