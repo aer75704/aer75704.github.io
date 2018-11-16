@@ -28,6 +28,7 @@ img {
 #d01 a:hover {
   background-color: navy;
   color: white;
+  a:link, a:visited
 }
 
 table, th, td {
